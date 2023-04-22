@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/spacex_clone/static/css/main.89c099c8.css",
+    "main.js": "/spacex_clone/static/js/main.f75c6049.js",
+    "static/media/spacex.jpg": "/spacex_clone/static/media/spacex.b76dfd69286f1cb68679.jpg",
+    "index.html": "/spacex_clone/index.html",
+    "main.89c099c8.css.map": "/spacex_clone/static/css/main.89c099c8.css.map",
+    "main.f75c6049.js.map": "/spacex_clone/static/js/main.f75c6049.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89c099c8.css",
+    "static/js/main.f75c6049.js"
+  ]
+}
